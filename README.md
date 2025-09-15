@@ -1,26 +1,23 @@
-# todoApp
+# Todo App
 
-A new Flutter project created with FlutLab - https://flutlab.io
+A Flutter app that helps users manage tasks efficiently with a clean and responsive UI.
 
-## Getting Started
+## Features
+- Add, edit, and delete tasks
+- Mark tasks as completed
+- Persistent storage using SharedPreferences
+- Clean and intuitive UI
+- Lightweight and fast
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
+- Flutter & Dart
+- SharedPreferences for local storage
+- GetX for state management (if used)
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+## Screenshots
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
-## Screenshots  
-
-### Home Page  
-![Home Page](ss/home_page/home1.png)
-
-### Completed Page  
-![Completed Page](ss/completed_page/comp1.png)
+## Installation
+1. **Clone the repository**
+```bash
+git clone https://github.com/hariharanmaran/todo-app.git
